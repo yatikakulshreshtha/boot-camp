@@ -1,3 +1,48 @@
+
+In 1978, the airline industry, which had been heavily regulated and controlled, was liberated from government oversight and released to the vagaries of the marketplace. As a result, the industry underwent significant change during the 1980s and 1990s. At the same time, several major air disasters took place, including the 1996 Valujet and TWA 800 aircraft crashes. In response to the post-accident events, Congress passed the Aviation Disaster Family Assistance Act (ADFAA) the same year. The terrorist attacks of September 11, 2001, wrought further change on the airline industry. Just weeks after the attacks, President george w. bush signed the Air Transportation Safety and System Stabilization Act (ATSSSA). According to a statement released by President Bush on September 22, 2001, the act was intended to ensure passenger safety and to "assure the safety and immediate stability of the nation's commercial airline system." It also created financial turmoil for nearly all the major carriers. What followed was a period of evolution and metamorphosis that changed the nature of flying forever.
+
+
+airlines industry is a service industry
+US airlines are either - Privately owned or publicly owned
+
+Airlines rank is determined by the revenue
+
+Categories of airlines by US govt-
+Regional, national, major
+
+Major- $1billion annually. e.g Northwest, Southwest, Alaska.
+National- $100million to $1 billion anually. eg Aloha, Evergreen.
+regional- $20 million to $100 million.
+
+Employees
+Line personnel, operations, maintenance, sales and marketting\
+
+Price deciding factors-
+Purcahse date, Class, destination, fuel cost, competitors fair,
+special factors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 AIRLINE DOMAIN 
 It is relatively easy to develop applications in any and every industry domain. But
 a company that primarily focuses its development efforts to only one industry
